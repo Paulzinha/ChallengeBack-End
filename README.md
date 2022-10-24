@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Vamos começar
 
-Rápida descrição do objetivo de fazer esse projeto
+Rápida descrição do objetivo de fazer esse projeto novo
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -9,8 +9,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/back-end-developer-1024x512.png#vitrinedev)
 
 ## Detalhes do projeto
 
