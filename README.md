@@ -4,8 +4,8 @@ Rápida descrição do objetivo de fazer esse projeto novo
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Alura Geek**
+| :label: Tecnologias | javascript, html, css (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
@@ -15,4 +15,4 @@ Rápida descrição do objetivo de fazer esse projeto novo
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Primeiro projeto levando em consideração os passos do challenge
